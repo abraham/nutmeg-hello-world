@@ -1,4 +1,17 @@
 language: node_js
 node_js:
-  - "node"
-  - "8"
+  - node
+before_script:
+  - node --version
+  - npm --version
+  - npm install
+script:
+  - npm run test
+os:
+  - linux
+cache:
+  directories:
+  - node_modules
+addons:
+  firefox: latest
+  chrome: stable
