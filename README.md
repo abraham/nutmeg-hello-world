@@ -13,7 +13,7 @@ Polyfill tags if you need them. This will include ShadowDOM and Custom Elements 
 Loading this component. It would be a good idea to use a specific version instead of `latest`.
 
 ```
-<script src="https://unpkg.com/hello-world@latest/dist/hello-world.min.js"></script>
+<script src="https://unpkg.com/@nutmeg/hello-world@latest/dist/hello-world.min.js"></script>
 ```
 
 Usage

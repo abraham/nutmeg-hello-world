@@ -1,7 +1,7 @@
 {
-  "name": "hello-world",
-  "version": "0.1.0",
-  "description": "Generated Nutmeg Web Component",
+  "name": "@nutmeg/hello-world",
+  "version": "0.9.3",
+  "description": "Hello World Nutmeg Web Component",
   "main": "dist/hello-world.js",
   "module": "dist/hello-world.js",
   "unpkg": "dist/hello-world.min.js",
